@@ -1,1 +1,1 @@
-This is a nucampsite created using React
+This is a nucampsite created using React-native app
